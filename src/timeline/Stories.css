@@ -1,0 +1,13 @@
+.stories{
+    width:70px;
+    margin-top: 3rem;
+    padding:10px;
+    cursor: pointer;
+}
+.stories > img{
+    width: 60px;
+    height: 60px;
+    border-radius: 5rem;
+    border:3px solid rgb(194, 129, 26);
+    padding: 4px;
+}
